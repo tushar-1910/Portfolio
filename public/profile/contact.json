@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/tushar19/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/tushar-1910"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:tusharagg19@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/licious.png",
+            "title": "Licious ",
+            "bodyText": "- Website to order fresh meat.\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/tushar-1910/licious-clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://bright-tapioca-98b677.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "Local-Storage",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/koo.png",
+            "title": "Koo App",
+            "bodyText": "- Koo is a micro-blog in Indian languages.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/tushar-1910/koo-clone"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://caaring.herokuapp.com"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "JSON-server"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "logo" : {
+        "source": "https://ui-avatars.com/api/?name=Tushar+Agarwal",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1YmvQk8tt8B39NTb5e1f_uz98Klj1S5jv/view",
+            "type": "link"
+        },
+        {
+            "title": "Contact",
+            "href": "/contact"
+        }
+    ]
+
+}
